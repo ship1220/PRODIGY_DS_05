@@ -12,9 +12,11 @@ It uses **Python, Pandas, Seaborn, and Matplotlib** for data processing & visual
 - seaborn
 - Jupyter Notebook
 ---
-Files Used
+
+## Files Used
 Dataset used:(https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 Contains information like- timimgs, City, Severity, Weather_Condition, visibility, humidity, road features etc.
+
 ---
 ## Project Overview  
 
