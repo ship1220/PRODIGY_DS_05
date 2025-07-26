@@ -1,10 +1,21 @@
-# TASK 5- US Accidents Data Analysis  
+# Task 5- US Accidents Data Analysis  
 
 This project analyzes the **US Accidents Dataset (March 2023)** to uncover patterns in road accidents across cities, times, weather conditions, and road features.  
 It uses **Python, Pandas, Seaborn, and Matplotlib** for data processing & visualization.  
-
 ---
+## Tech Stack & Libraries
 
+- Python 3.8+  
+- pandas
+- numpy
+- matplotlib 
+- seaborn
+- Jupyter Notebook
+---
+Files Used
+Dataset used:(https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
+Contains information like- timimgs, City, Severity, Weather_Condition, visibility, humidity, road features etc.
+---
 ## Project Overview  
 
 - Loads and processes a **large dataset in chunks** for efficiency  
@@ -18,8 +29,16 @@ It uses **Python, Pandas, Seaborn, and Matplotlib** for data processing & visual
 - Generates insightful **visualizations**  
 
 ---
+## Visualizations  
+> **Note:** The notebook contains 11 visualizations in total, including bar charts and word clouds for each sentiment category.  
+> Below is a sample preview of just one:
 
-##  Key Insights  
+- **Road Features Breakdown**  
+  ![Road Features](your-image-link-here)
+
+
+---
+## Insights  
 
 ### When do accidents happen?  
 - **Peak hours:** **7–9 AM** (morning rush) & **3–6 PM** (evening rush)  
@@ -43,14 +62,7 @@ It uses **Python, Pandas, Seaborn, and Matplotlib** for data processing & visual
 
 ---
 
-## Visualizations  
 
-
-- **Road Features Breakdown**  
-  ![Road Features](your-image-link-here)
-
-
----
 
 ## How to Run  
 
