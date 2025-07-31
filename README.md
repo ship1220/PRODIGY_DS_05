@@ -1,7 +1,7 @@
 # Task 5- US Accidents Data Analysis  
 
-This project analyzes the **US Accidents Dataset (March 2023)** to uncover patterns in road accidents across cities, times, weather conditions, and road features.  
-It uses **Python, Pandas, Seaborn, and Matplotlib** for data processing & visualization.  
+-This project analyzes the **US Accidents Dataset (March 2023)** to uncover patterns in road accidents across cities, times, weather conditions, and road features.  
+-It uses **Python, Pandas, Seaborn, and Matplotlib** for data processing & visualization.  
 ---
 ## Tech Stack & Libraries
 
