@@ -32,7 +32,7 @@ Dataset used:(https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 
 ---
 ## Visualizations  
-> **Note:** The notebook contains 11 visualizations in total, including bar charts and word clouds for each sentiment category.  
+> **Note:** The notebook contains 12 visualizations in total, including bar charts and word clouds for each sentiment category.  
 > Below is a sample preview of just one:
 
 - **Road Features Breakdown**  
